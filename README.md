@@ -74,3 +74,4 @@
   - seaborn
   - plotly (graph_objects, express, subplots)
   - operator, mcolors
+- **Представление результатов**: MS Power Point
